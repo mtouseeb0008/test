@@ -1,5 +1,0 @@
-{{#user}}
-Name: MD TOUSEEB
-Skills: HTML, CSS, JS,React , MongoDB , Express.js ,Node.js , Next.js,
-Email: touseeb1001bbk@gmail.com
-{{/user}}
